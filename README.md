@@ -23,8 +23,14 @@ It does not replace Codex, Claude Code, Gemini, Cursor, Copilot, or local agents
 ## Install locally
 
 ```bash
-npm install
-npm link
+# NanoTicket
+
+Small, safe, verifiable task contracts for AI coding agents.
+
+Install:
+
+```bash
+npm install -g @gfunkytheanimal/nanoticket
 ```
 
 Then from any repo:
