@@ -2,6 +2,7 @@
 
 Small, safe, verifiable task contracts for AI coding agents.
 
+<<<<<<< HEAD
 AI coding agents are powerful, but they drift. They edit too many files, refactor unrelated code, skip verification, and claim success without proof.
 
 NanoTicket gives every agent a bounded task contract:
@@ -235,3 +236,4 @@ nanoticket.cmd new "Fix arrow collision crash"
 ```
 
 This is normal for npm-linked CLIs on Windows.
+=======
